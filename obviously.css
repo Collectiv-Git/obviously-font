@@ -1,27 +1,27 @@
 @font-face {
-  font-family: 'Obviously';
+  font-family: 'Obviously Medium';
   src: url('https://collectiv.ie/wp-content/uploads/2025/04/Obviously-Medium.woff2') format('woff2');
-  font-weight: 500;
+  font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Obviously';
+  font-family: 'Obviously Super';
   src: url('https://collectiv.ie/wp-content/uploads/2025/04/Obviously-Super.woff2') format('woff2');
-  font-weight: 900;
+  font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: 'Obviously';
+  font-family: 'Obviously Black Italic';
   src: url('https://collectiv.ie/wp-content/uploads/2025/04/Obviously-BlackItalic.woff2') format('woff2');
-  font-weight: 800;
-  font-style: italic;
+  font-weight: normal;
+  font-style: normal;
 }
 
 @font-face {
-  font-family: 'Obviously';
+  font-family: 'Obviously Super Italic';
   src: url('https://collectiv.ie/wp-content/uploads/2025/04/Obviously-SuperItalic.woff2') format('woff2');
-  font-weight: 900;
-  font-style: italic;
+  font-weight: normal;
+  font-style: normal;
 }
